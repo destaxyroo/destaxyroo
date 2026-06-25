@@ -1,16 +1,10 @@
-# 🚀 Xyro | Full-Stack Developer & Game Scripter
-
-![Banner](https://cdn.phototourl.com/free/2026-06-25-ff0c8f29-2a88-4bc6-a2ee-f1e04bd394da.png)
-
 ## 👋 About Me
+I'm a passionate **All-Stack Developer** and **Game Scripter** with over 5+ years of experience in building web applications, game scripts, and automation tools. I specialize in **PAWN**, **Lua**, and modern web technologies.
 
-I'm a passionate **Full-Stack Developer** and **Game Scripter** with expertise in building web applications, game scripts, and automation tools. I specialize in **PAWN**, **Lua**, and modern web technologies.
-
-- 🎮 **Game Development**: FiveM, SA-MP, Minecraft, and more
+- 🎮 **Game Development**: SA-MP, FiveM, Minecraft
 - 🌐 **Web Development**: HTML, CSS, JavaScript, PHP, Python
 - 🔧 **Tools**: Git, Docker, Linux, Nginx, Pterodactyl
-
----
+- 📱 **Discord Bot**: Automation & utility bots
 
 ## 🛠️ Tech Stack
 
@@ -22,41 +16,32 @@ I'm a passionate **Full-Stack Developer** and **Game Scripter** with expertise i
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-
-### Game Scripting
-
-![FiveM](https://img.shields.io/badge/FiveM-000000?style=for-the-badge&logo=fivem&logoColor=white)
-![SA-MP](https://img.shields.io/badge/SA--MP-000000?style=for-the-badge&logo=rockstar&logoColor=white)
-![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
-
-### Databases & Servers
-
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
----
+### Specialization
+
+- **All-Stack Developer** - Full-stack development for web & applications
+- **PAWN Scripter** - Advanced scripting for SA-MP servers
+- **Lua Developer** - Game scripting for FiveM & Minecraft
+- **Automation Expert** - Bot development & system automation
+
 
 ## 📌 Featured Projects
 
 ### 🎮 Game Scripts
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| [FiveM] | Custom FiveM scripts for roleplay servers | ✅ Active |
-| [SA-MP] | Advanced gamemodes and filterscripts | ✅ Active |
-| [Minecraft] | Custom plugins and mods | 🔄 In Progress |
+| Project | Platform | Description | Status |
+|---------|----------|-------------|--------|
+| **Buton Roleplay** | SA-MP | Advanced roleplay gamemode with custom features, economy system, and interactive gameplay | ✅ Active |
+| **Twelve Metropolitan Roleplay** | SA-MP | Realistic city roleplay server with custom scripting, factions, and immersive systems | ✅ Active |
 
-### 🌐 Web Projects
+### 🤖 Automation Tools
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| [XCODE Installer] | Pterodactyl Theme Auto-Installer | ✅ Active |
-| [Portfolio] | Personal portfolio website | ✅ Live |
-| [Template Projects] | Various HTML/CSS/JS templates | ✅ Active |
+| Project | Platform | Description | Status |
+|---------|----------|-------------|--------|
+| **Bot Auto Installer Pterodactyl** | Discord | Discord bot for automated Pterodactyl panel theme installation with 7 languages support | ✅ Active |
 
----
 
 ## 📊 GitHub Stats
 
@@ -65,41 +50,44 @@ I'm a passionate **Full-Stack Developer** and **Game Scripter** with expertise i
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=destaxyroo&layout=compact&theme=dark&hide_border=true" width="48%" />
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=destaxyroo&theme=darkhub&no-frame=true&row=2&column=4" />
-</div>
-
----
 
 ## 📫 Connect with Me
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xyro)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@xyro)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sHhePQxquY)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fruniseecemals)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/5USVFVXTLFRRI1)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/destaxyroo)
 
----
+### 🌐 Community & Support
+
+- **Discord Server**: [Orbit Cloud | Open 24/7](https://discord.gg/sHhePQxquY)
+- **Telegram**: [@fruniseecemals](https://t.me/fruniseecemals)
+- **WhatsApp Business**: [Click to Chat](https://wa.me/message/5USVFVXTLFRRI1)
+
 
 ## 💻 Current Focus
 
-- 🎮 Developing advanced FiveM roleplay scripts
-- 🌐 Building modern web applications
-- 🔧 Creating automation tools for Pterodactyl
-- 📖 Learning more about game development
+- 🎮 **SA-MP Development**: Enhancing Buton Roleplay & Twelve Metropolitan
+- 🤖 **Discord Bot**: XCODE Installer automation improvements
+- 🌐 **Web Development**: Building modern applications
+- 🔧 **Open Source**: Contributing to developer tools
 
----
 
 ## 🎯 Goals for 2026
 
-- [ ] Release 5 new FiveM scripts
-- [ ] Build a complete web application
-- [ ] Contribute to open source projects
+- [ ] Expand Buton Roleplay & Twelve Metropolitan RP features
+- [ ] Release XCODE Installer v4.0 with more features
+- [ ] Build 5+ new automation tools
+- [ ] Grow community to 1000+ members
+
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=destaxyroo&color=blue&style=flat-square" alt="Profile Views" />
+  <br />
+  <i>⚡ "Build. Automate. Innovate."</i>
+</div>- [ ] Contribute to open source projects
 - [ ] Create video tutorials on YouTube
 
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=destaxyroo&color=blue&style=flat-square" alt="Profile Views" />
